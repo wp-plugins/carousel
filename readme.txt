@@ -19,6 +19,7 @@ This plugin allows you to use shortcode to display carousel post or page. you ca
 * [Live demo!&raquo;](http://themepoints.com)
 
 <strong>Plugin Features </strong>
+
 * Shortcode System.
 * Touch Enable.
 * Fully responsive.
