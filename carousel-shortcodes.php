@@ -3,7 +3,7 @@
 /*
 Plugin Name:Carousels Ultimate
 Plugin URI: http://themepoints.com
-Description: Kento Carousel Description
+Description: Carousels ultimate allows you to use shortcode to display carousel post or page.
 Version: 1.0
 Author: themepoints
 Author URI: http://themepoints.com
