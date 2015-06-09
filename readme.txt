@@ -3,7 +3,7 @@ Contributors: themepoints
 Donate link:http://themepoints.com
 Tags:  carousel, carousel's , carousel shortcode , responsive carousel, wordpress carousel, carousel logo, logo carousel, image carousel, carousel gallery, touch carousel, easy carousel, gallery carousel, nice carousel, client carousel.
 Requires at least: 3.8
-Tested up to: 4.1.1
+Tested up to: 4.2.2
 Stable tag: 1.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
