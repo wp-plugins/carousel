@@ -14,6 +14,9 @@ Easy Responsive Shortcode carousel for WordPress.
 This plugin allows you to use shortcode to display carousel post or page. you can easily create carousel using shortcode.
 
 
+<strong>If you liked Carousel Ultimate, please don’t forget to rate it!</strong>
+
+
 ### Carousel by http://themepoints.com
 
 * [Live demo!&raquo;](http://themepoints.com)
